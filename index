@@ -1,0 +1,21 @@
+# Hello World
+
+This is my home page! My name is Jonathan Diep and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+
+## Computer Science Projects
+
+My GitHub page is http://github.com/JDiep05.
+
+### CPSC 120
+
+* Lab 7
+
+	The most enjoyable lab throughout the entire semester was Lab 7, notably Part 1. It was also the first lab in which I utilized plenty of material that I enjoyed, including a vector, strings, and even functions from mathematics. Furthermore, this was the lab with a lot of setup as well as various files within one lab. This was the first lab that required me to browse through many files and learn what each one contained. For instance, datediff.cc displayed a lot of variable initialization, but datediff_functions.cc included a lot of mathematical functions.
+
+* Lab 7
+
+	A lab that sits with me was Part 2 of Lab 7. There were many files and images setup into the lab. We were required to create a function that outputs if parking is allowed during that day and time. "AND" and "OR" was an operand that I heavily utilized in order to less the work load. Throughout fails, I slowly understand how to utilize those operand.
+
+* Lab 9
+
+	Lab 9 is probably my most memorable lab. This lab dives deeper into the function of array and utilizing code that controls the array. Part 1 required us to remove the highest number and lowest number in the array. In order to do that, we must create a loop that check each element in the array and making sure that the value is the highest or the lowest. In this instance, ".front()" was used to start at the beginning of the array so that we can check every element during the loop. Another reason why I enjoyed this lab was because It was the first lab that I passed during the time period we have for class.
